@@ -1,6 +1,6 @@
 # screenies: Helper scripts for taking screenshots
 
-# EXAMPLE
+# EXAMPLE (macOS)
 
 ```console
 $ sleep 300 && stop-screenshots.macos.sh
