@@ -3,10 +3,10 @@
 # EXAMPLE
 
 ```console
-$ sleep 300 && stop-screenshots.sh
+$ sleep 300 && ./stop-screenshots
 ...
 
-$ watch -n 2 timestamped-screenshot.sh
+$ watch -n 2 ./timestamped-screenshot
 ...
 ```
 
